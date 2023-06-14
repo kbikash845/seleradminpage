@@ -1,0 +1,49 @@
+.userlist{
+    margin-left: 0;
+    margin-top: 4.6rem;
+    border: 1px solid antiquewhite; 
+    background-color: antiquewhite;
+    border-radius: 8px;
+}
+
+.li1{
+    border: 1px solid rgb(226, 39, 95);
+    width: 80vw;
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 0;
+    padding: 0;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+    background-color: rgb(226, 39, 95);
+    border-radius: 8px;
+    /* color: wheat; */
+    margin-bottom: 1.1rem;
+    
+}
+.btn{
+    padding: 4px;
+    margin-top: -1.5rem;
+    margin-right: 1.0rem;
+    background-color: red;
+    border-color: red;
+    border-radius: 4px;
+    color: aliceblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: blue;
+    border-color: blue;
+    color: antiquewhite;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 4px;
+    cursor: pointer;
+
+}
