@@ -60,7 +60,7 @@ function User_Input() {
 
   })
   SetItemlist(FilterItem)
-  toast.error("item deleted")
+  toast.error("item deleted.....")
  }
  const EditItem=(id)=>{
   const Edit=itemlist.find((edits)=>{
