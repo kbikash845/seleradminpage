@@ -81,7 +81,7 @@ function User_Input() {
     <div className='input-div'>
         <div>
           <label>Selling Price :</label><br/>
-         <input type='Number' placeholder='Enter Price...' onChange={ChangeTitle} value={Title} />
+         <input type='number' placeholder='Enter Price...' onChange={ChangeTitle} value={Title} />
      </div>
        <div>
          <label>Product Name :</label><br/>

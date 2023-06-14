@@ -10,8 +10,10 @@
     border: 1px solid aqua;
     display: flex;
     flex-direction: row;
-    padding: 4px;
-gap: 50px;
+    padding: 8px;
+    /* background-color: bisque; */
+   gap: 50px;
+   
 
 }
 label{
