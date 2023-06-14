@@ -46,6 +46,8 @@ function User_Input() {
   SetDiscription("")
   setSelectedOption("")
   toast.success("Item Added SuccessFully......")
+
+  localStorage.setItem("id",JSON.stringify(NewData))
  
 
 
